@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>DemoApp - UI content</comment>
+<entry key="createdBy">ssi172</entry>
+<entry key="name">dockeraem.ui.content</entry>
+<entry key="created">2017-05-21T16:31:28.763-0400</entry>
+<entry key="groupId">DemoApp</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">DemoApp</entry>
+<entry key="description">UI content package for DemoApp</entry>
+<entry key="artifactId">dockeraem.ui.content</entry>
+<entry key="path">/etc/packages/DemoApp/dockeraem.ui.content.zip</entry>
+</properties>
