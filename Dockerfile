@@ -1,5 +1,5 @@
 # DOCKER-VERSION 1.7.0 AUTHOR
-FROM aem_6-2_base
+FROM ggotti/aem-base
 LABEL version="1.0"
 LABEL description="AEM author docker image"
 MAINTAINER dbenge
